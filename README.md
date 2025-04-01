@@ -1,5 +1,5 @@
 # Ip-pinger-beta
-🎨 Design-Anpassungen
+"🎨 Design-Anpassungen"
 
 Themen ändern: Ersetze theme="cyborg" mit:
 "darkly" (Dunkel)
